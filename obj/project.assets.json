@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/Guest/.nuget/packages/": {},
+    "/Users/justimaybe/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/Palindromes/palindrome.csproj",
-      "projectName": "palindrome",
-      "projectPath": "/Users/Guest/Desktop/Palindromes/palindrome.csproj",
-      "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/Palindromes/obj/",
+      "projectUniqueName": "/Users/justimaybe/Desktop/Variables/project.csproj",
+      "projectName": "project",
+      "projectPath": "/Users/justimaybe/Desktop/Variables/project.csproj",
+      "packagesPath": "/Users/justimaybe/.nuget/packages/",
+      "outputPath": "/Users/justimaybe/Desktop/Variables/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/Guest/.nuget/NuGet/NuGet.Config"
+        "/Users/justimaybe/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
