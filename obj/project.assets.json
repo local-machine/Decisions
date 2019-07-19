@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/justimaybe/Desktop/Variables/project.csproj",
+      "projectUniqueName": "/Users/justimaybe/Desktop/Decisions/project.csproj",
       "projectName": "project",
-      "projectPath": "/Users/justimaybe/Desktop/Variables/project.csproj",
+      "projectPath": "/Users/justimaybe/Desktop/Decisions/project.csproj",
       "packagesPath": "/Users/justimaybe/.nuget/packages/",
-      "outputPath": "/Users/justimaybe/Desktop/Variables/obj/",
+      "outputPath": "/Users/justimaybe/Desktop/Decisions/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

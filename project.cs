@@ -1,19 +1,35 @@
 using System;
 
-namespace Variables 
+namespace Decisions 
 {
     class Program 
     {
         static void Main()
         {
-            Console.WriteLine("What is your name?");
-            Console.Write("Enter your first name: ");
-            string userFirstName = Console.ReadLine();
+            Console.WriteLine("Billy's Big Givaway");
+            Console.Write("Choose a door: 1, 2 or 3: ");
+            string userValue = Console.ReadLine();
 
-            Console.WriteLine("Enter your last name: ");
-            string userLastName = Console.ReadLine();
+            string message = "";
 
-            Console.WriteLine("Hello, " + userFirstName + " " + userLastName);
+            if(userValue == "1")
+            {
+              message = "You won a new car!";
+            }
+            else if (userValue == "2")
+            {
+              message = "You won a new boat!";
+            }
+            else if (userValue == "3")
+            {
+              message = "You won a new cat!";
+            }
+            else
+            {
+                message = "I'm sorry we didn't understand that. ";
+                message += "You lose.";
+            }
+            Console.WriteLine(message);
             Console.ReadLine();
         }
     }

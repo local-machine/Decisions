@@ -9,3 +9,14 @@
 /Users/justimaybe/Desktop/Variables/obj/Debug/netcoreapp2.2/project.AssemblyInfo.cs
 /Users/justimaybe/Desktop/Variables/obj/Debug/netcoreapp2.2/project.dll
 /Users/justimaybe/Desktop/Variables/obj/Debug/netcoreapp2.2/project.pdb
+/Users/justimaybe/Desktop/Decisions/bin/Debug/netcoreapp2.2/project.deps.json
+/Users/justimaybe/Desktop/Decisions/bin/Debug/netcoreapp2.2/project.runtimeconfig.json
+/Users/justimaybe/Desktop/Decisions/bin/Debug/netcoreapp2.2/project.runtimeconfig.dev.json
+/Users/justimaybe/Desktop/Decisions/bin/Debug/netcoreapp2.2/project.dll
+/Users/justimaybe/Desktop/Decisions/bin/Debug/netcoreapp2.2/project.pdb
+/Users/justimaybe/Desktop/Decisions/obj/Debug/netcoreapp2.2/project.csprojAssemblyReference.cache
+/Users/justimaybe/Desktop/Decisions/obj/Debug/netcoreapp2.2/project.csproj.CoreCompileInputs.cache
+/Users/justimaybe/Desktop/Decisions/obj/Debug/netcoreapp2.2/project.AssemblyInfoInputs.cache
+/Users/justimaybe/Desktop/Decisions/obj/Debug/netcoreapp2.2/project.AssemblyInfo.cs
+/Users/justimaybe/Desktop/Decisions/obj/Debug/netcoreapp2.2/project.dll
+/Users/justimaybe/Desktop/Decisions/obj/Debug/netcoreapp2.2/project.pdb
